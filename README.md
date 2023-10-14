@@ -24,8 +24,8 @@ Step 8: Save and Run the Program.
 
 ## PROGRAM:
 ```
-Developed By: Balureddy Velayudham Gowtham
-Reg No.: 212222040024
+Developed By: GEORGE PAUL TONY .C
+Reg No.: 212222040043
 ```
 ```
 #include "./common.h"
